@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning Laravel (with all its quirks and whistles)
 - 📘 Previously worked on : As the tech lead in [`Notebook`](https://github.com/Soumyadeep-Dey123/Notebook.git)
 - 📖 Currently working on : [`Corporate Analyser`](https://github.com/Soumyadeep-Dey123/Corporate-Analyzer.git)
-- 💬 Ask me about: 
-- 📫 How to reach me: My socials
+- 📫 How to reach me: [My Socials](#🌐-socials)
 - ⚡ Fun fact: I am gaming, when im not coding
+<!-- - 💬 Ask me about:  -->
 <!-- - 📅 Planning to learn and work on : AI/ML, Cybersecurity and contribute to Open source projects -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 ![](https://komarev.com/ghpvc/?username=Soumyadeep-Dey123&style=for-the-badge&label=Profile+Visits)
