@@ -18,7 +18,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dey.soumyadeep123@gmail.com) 
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FKnight_quantum1)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Knight_quantum1)
 ![Discord](https://img.shields.io/discord/vGss6nbzJt?style=social)
 
 
