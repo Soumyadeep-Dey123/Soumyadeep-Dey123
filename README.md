@@ -3,8 +3,9 @@
 
 
 <!-- **Soumyadeep-Dey123/Soumyadeep-Dey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### `💫 Novice Backend Developer`
-### `🔭 Aspiring Full Stack Developer`
+### `💫 Full Stack Developer`
+<!-- ### `💫 Novice Backend Developer` -->
+<!-- ### `🔭 Aspiring Full Stack Developer` -->
 - 🌱 I’m currently learning Laravel (with all its quirks and whistles)
 - 📘 Previously worked on : As the tech lead in [`Notebook`](https://github.com/Soumyadeep-Dey123/Notebook.git)
 - 📖 Currently working on : [`Corporate Analyser`](https://github.com/Soumyadeep-Dey123/Corporate-Analyzer.git)
