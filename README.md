@@ -8,7 +8,8 @@
 <!-- ### `🔭 Aspiring Full Stack Developer` -->
 - 🌱 I’m currently learning Laravel (with all its quirks and whistles)
 - 📘 Previously worked on : As the tech lead in [`Notebook`](https://github.com/Soumyadeep-Dey123/Notebook.git)
-- 📖 Currently working on : [`Corporate Analyser`](https://github.com/Soumyadeep-Dey123/Corporate-Analyzer.git)
+- 📖 Currently working on : *Reveal Soon...*
+<!-- - 📖 Currently working on : [`Corporate Analyser`](https://github.com/Soumyadeep-Dey123/Corporate-Analyzer.git) -->
 - 📫 How to reach me: [My Socials](#🌐-socials)
 - ⚡ Fun fact: I am gaming, when im not coding
 <!-- - 💬 Ask me about:  -->
