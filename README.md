@@ -21,7 +21,7 @@
 ### `💫 Full Stack Web Developer`
 
 - 🔭 Working on something in the HR-tech space. Details soon.
-- 🌱 Currently learning Rust — one borrow checker error at a time
+- 🌱 Currently learning [`Rust`](https://github.com/Soumyadeep-Dey123/Learning-Rust) — one borrow checker error at a time
 - 📘 Previously worked on : Tech lead in [`Notebook`](https://github.com/Soumyadeep-Dey123/Notebook.git)
 - ⚡ Gamer. Anime watcher. Terminal dweller.
 - 📫 How to reach me: [My Socials](#🌐-socials)
@@ -100,4 +100,3 @@ figlet -f slant "Soumyadeep"
 /____/\____/\__,_/_/ /_/ /_/\__, /\__,_/\__,_/\___/\___/ .___/
                            /____/                     /_/
 ```
-
