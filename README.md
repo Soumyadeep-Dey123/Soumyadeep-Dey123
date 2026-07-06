@@ -22,7 +22,7 @@
 
 - 🔭 Working on something in the HR-tech space. Details soon.
 - 🌱 Currently learning [`Rust`](https://github.com/Soumyadeep-Dey123/Learning-Rust) — one borrow checker error at a time
-- 📘 Previously worked on : Tech lead in [`Notebook`](https://github.com/Soumyadeep-Dey123/Notebook.git)
+- 📘 Previously worked on : Tech lead in [`Notebook`](https://www.linkedin.com/company/studywithnotebook/)
 - ⚡ Gamer. Anime watcher. Terminal dweller.
 - 📫 How to reach me: [My Socials](#🌐-socials)
 
