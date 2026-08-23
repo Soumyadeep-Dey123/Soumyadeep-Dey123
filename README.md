@@ -24,6 +24,7 @@
 - 🌱 Currently learning [`Rust`](https://github.com/Soumyadeep-Dey123/Learning-Rust) — one borrow checker error at a time
 - 📘 Previously worked on : Tech lead in [`Notebook`](https://www.linkedin.com/company/studywithnotebook/)
 - ⚡ Gamer. Anime watcher. Terminal dweller.
+- Recently built [`Focus Flow`](https://focus-flow-nu-eight.vercel.app/), give it a try 😌
 - 📫 How to reach me: [My Socials](#🌐-socials)
 
   <!-- - 💬 Ask me about:  -->
