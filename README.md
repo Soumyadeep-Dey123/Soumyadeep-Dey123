@@ -7,24 +7,24 @@
 ```
  ██╗  ██╗ ██████╗ ██╗    soumyadeep@dev
  ╚██╗██╔╝██╔═══██╗██║    ---------------
-  ╚███╔╝ ██║   ██║██║    OS: Ubuntu 24.04.4 LTS x86_64
-  ██╔██╗ ██║   ██║██║    DE: GNOME 46.0
+  ╚███╔╝ ██║   ██║██║    OS: Ubuntu 26.04.1 LTS x86_64
+  ██╔██╗ ██║   ██║██║    DE: GNOME 50.1
  ██╔╝ ██╗╚██████╔╝███████ Editor: Vs Code
- ╚═╝  ╚═╝ ╚═════╝ ╚══════ Shell: bash 5.2.21
-                           Kernel: 6.17.0-35-generic
-                           Terminal: gnome-terminal
-                           Stack: Laravel + React
+ ╚═╝  ╚═╝ ╚═════╝ ╚══════ Shell: bash 5.3.9
+                           Kernel: 7.0.0-42-generic
+                           Terminal: ptyxis-agent
+                           Stack: Laravel + React + a few more skills up my sleeve
 ```
 
 ---
 
-### `💫 Full Stack Web Developer`
+### `💫 Aspiring Product Engineer`
 
 - 🔭 Working on something in the HR-tech space. Details soon.
 - 🌱 Currently learning [`Rust`](https://github.com/Soumyadeep-Dey123/Learning-Rust) — one borrow checker error at a time
 - 📘 Previously worked on : Tech lead in [`Notebook`](https://www.linkedin.com/company/studywithnotebook/)
 - ⚡ Gamer. Anime watcher. Terminal dweller.
-- Recently built [`Focus Flow`](https://focus-flow-nu-eight.vercel.app/), [bashyt](https://github.com/Soumyadeep-Dey123/bashyt) give it a try 😌
+- Recently built [`Focus Flow`](https://focus-flow-nu-eight.vercel.app/), [bashyt](https://github.com/Soumyadeep-Dey123/bashyt), [tubegram](https://github.com/soumyadeep-labs/tubegram) give it a try 😌
 - 📫 How to reach me: [My Socials](#🌐-socials)
 
   <!-- - 💬 Ask me about:  -->
@@ -64,6 +64,14 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
+![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
+![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Searxng](https://img.shields.io/badge/searxng-%233050FF.svg?style=for-the-badge&logo=searxng&logoColor=white)
+![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Currently Learning
 
@@ -72,7 +80,6 @@
 ### Previously / Familiar
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
@@ -82,10 +89,10 @@
 
 ## 🛠️ Setup
 
-- **OS:** Ubuntu (daily) / Arch Linux + Hyprland (secondary)
-- **Editor:** Neovim with nvchad config(secondary) / VS Code with custom configuration (daily)
-- **Shell:** Bash with custom configuration (daily) / Zsh + Oh My Zsh (secondary)
-- **Terminal:** Gnome Terminal (daily) / Alacritty (secondary)
+- **OS:** Ubuntu (daily) / omarchy (secondary)
+- **Editor:** Neovim with lazyvim config(secondary) / VS Code with custom configuration (daily)
+- **Shell:** Bash with custom configuration (daily) / Quickshell (secondary)
+- **Terminal:** Ptyxis agent (daily) / Foot (secondary)
 
 --- -->
 
