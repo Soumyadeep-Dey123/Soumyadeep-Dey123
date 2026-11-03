@@ -108,3 +108,7 @@ figlet -f slant "Soumyadeep"
 /____/\____/\__,_/_/ /_/ /_/\__, /\__,_/\__,_/\___/\___/ .___/
                            /____/                     /_/
 ```
+
+<p align="center">
+  <img src="assets/fuji-dawn-lake.gif" alt="Fuji Dawn Lake, animated ASCII art" width="720">
+</p>
